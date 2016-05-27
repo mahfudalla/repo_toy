@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   # You can have the root of your site routed with "root"
    #root 'welcome#index'
-   root 'toy_url#index'
+   #root 'toy_url#index'
   #https://lit-beach-47797.herokuapp.com/
 
   # Example of regular route:
