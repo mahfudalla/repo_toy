@@ -6,7 +6,7 @@ Rails.application.routes.draw do
    #root 'welcome#index'
    #root 'toy_url#index'
   #https://lit-beach-47797.herokuapp.com/
-    root 'application#hello'
+    #root 'application#hello'
 
 
   # Example of regular route:
